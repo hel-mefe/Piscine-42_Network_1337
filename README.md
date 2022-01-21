@@ -24,4 +24,4 @@ The main goal of the pool period is to let you discover the world of programming
 Shell Commands, About the concept of Pipes in Unix, About Operating systems ...etc.
 
 After that, you dive deep into C Programming, you start solving the problems you get each day. There are around 12 or 10 days of C Programming Projects, in addition
-to Friday 4-hours exam, which is an exam in C you have to pass if you want to study at any 42 Networks School.## 4 Interesting facts you may like about this repository.
+to Friday 4-hours exam, which is an exam in C you have to pass if you want to study at any 42 Networks School.
