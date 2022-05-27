@@ -4,6 +4,8 @@ This repository represents all the work I have done during the august pool of 13
 
 ## What is 1337?
 
+<img src="https://pbs.twimg.com/media/EwRyYuuXEAEenJt.jpg" width="1280" height="720" />
+
 1337 is an IT Programming School in Morroco that Follows a Project-Based Learning Pedagogy as well
 as a Peer-Learning Pedagogy. This means you learn Software Engineering with Projects, with writing 
 programs and debugging them, not much theory but very much practice.
